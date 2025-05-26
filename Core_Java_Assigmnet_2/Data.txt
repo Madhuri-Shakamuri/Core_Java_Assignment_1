@@ -1,0 +1,1 @@
+It replaces all multiple spaces with single space in this file .
